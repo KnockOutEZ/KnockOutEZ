@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=knockoutez&label=Profile%20views&color=0e75b6&style=flat" alt="knockoutez" /> </p> -->
 
-- 🌱 I’m currently learning **Golang,Typescript,NestJS,Graphql**
+- 🌱 I’m currently learning **Golang,Typescript,NestJS,Graphql,Prisma**
 
 <!-- - 👨‍💻 All of my projects are available at [https://genesis-one.vercel.app](https://genesis-one.vercel.app) -->
 
