@@ -13,7 +13,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on my side project (Nexentra)<br>👯 I’m looking to collaborate on Golang projects<br>🌱 I’m currently learning Golang, Backend, Databases and Cloud.<br>⚡ Fun fact Honey never spoils; it can last for thousands of years and still be edible.
+🔭 I’m currently working on my side project (Nexentra)<br>👯 I’m looking to collaborate on Golang projects<br>🌱 I’m currently learning Golang, Backend, Databases and Cloud.<br>⚡ Fun fact Honey never spoils; it can last for thousands of years and still be edible.<br> 💬 You can reach me at [ktowhid20@gmail.com](ktowhid20@gmail.com)
 
 <br clear="both">
 
@@ -39,23 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="towhid7507" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="discord logo"  />
-  </a>
-  <a href="ktowhid20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/towhid-khan-b2504b207/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/towhid.khan.9699" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="facebook logo"  />
-  </a>
 </div>
 
 ###
