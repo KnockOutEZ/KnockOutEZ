@@ -12,6 +12,9 @@
 
 ###
 
+# 💫 About Me:
+🔭 I’m currently working on my side project (Nexentra)<br>👯 I’m looking to collaborate on Golang projects<br>🌱 I’m currently learning Golang, Backend, Databases and Cloud.<br>⚡ Fun fact Honey never spoils; it can last for thousands of years and still be edible.
+
 <br clear="both">
 
 <div align="center">
@@ -66,8 +69,33 @@
 
 ###
 
-<br clear="both">
+ ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/KnockOutEZ) 
 
-<img src="https://raw.githubusercontent.com/KnockOutEZ/KnockOutEZ/output/snake.svg" alt="Snake animation" />
 
-###
+
+
+
+
+
+
+
+
+# 💻 Tech Stack:
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=knockOutEZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=knockOutEZ&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=knockOutEZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=knockOutEZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=knockOutEZ&icon=0&color=0)](https://visitcount.itsvg.in)
