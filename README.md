@@ -13,7 +13,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on my side project ([Brightshift.app](https://github.com/brightshift))<br>👯 I’m looking to collaborate on Golang projects<br>🌱 I’m currently learning Golang, Backend, Databases and Cloud.<br> 💬 You can reach me at [hello@yourtowhid.com]
+🔭 I’m currently working on my side project ([Brightshift.app](https://github.com/brightshift))<br> 💬 You can reach me at [hello@yourtowhid.com]
 
 <br clear="both">
 
