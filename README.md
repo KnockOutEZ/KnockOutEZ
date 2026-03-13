@@ -12,8 +12,7 @@
 
 ###
 
-# 💫 About Me:
-🔭 I’m currently working on my side project ([Brightshift.app](https://github.com/brightshift))<br> 💬 You can reach me at [ktowhid20@gmail.com]
+💬 You can reach me at [ktowhid20@gmail.com]
 
 <br clear="both">
 
