@@ -39,13 +39,16 @@
   <img src="assets/projects-dark.svg" width="100%" alt="03 — projects">
 </picture>
 
+<!-- each card links to its repo · star counts are refreshed live by the telemetry workflow -->
 <p align="center">
-  <sub>
-    <a href="https://github.com/KnockOutEZ/wigolo">wigolo</a> ·
-    <a href="https://github.com/KnockOutEZ/diffdeck">diffdeck</a> ·
-    <a href="https://github.com/nexentra/aesir">aesir</a> ·
-    <a href="https://github.com/deepnoodle-ai/risor">risor</a>
-  </sub>
+  <a href="https://github.com/KnockOutEZ/wigolo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-wigolo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/proj-wigolo-light.svg"><img src="assets/proj-wigolo-dark.svg" width="49%" alt="wigolo"></picture></a>
+  <a href="https://github.com/KnockOutEZ/diffdeck"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-diffdeck-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/proj-diffdeck-light.svg"><img src="assets/proj-diffdeck-dark.svg" width="49%" alt="diffdeck"></picture></a>
+  <a href="https://github.com/nexentra/aesir"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-aesir-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/proj-aesir-light.svg"><img src="assets/proj-aesir-dark.svg" width="49%" alt="aesir"></picture></a>
+  <a href="https://github.com/deepnoodle-ai/risor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-risor-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/proj-risor-light.svg"><img src="assets/proj-risor-dark.svg" width="49%" alt="risor"></picture></a>
+  <a href="https://github.com/nexentra/midgard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-midgard-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/proj-midgard-light.svg"><img src="assets/proj-midgard-dark.svg" width="49%" alt="midgard"></picture></a>
+  <a href="https://github.com/deepnoodle-ai/dive"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-dive-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/proj-dive-light.svg"><img src="assets/proj-dive-dark.svg" width="49%" alt="dive"></picture></a>
+  <a href="https://github.com/pgEdge/prest-client"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-prest-client-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/proj-prest-client-light.svg"><img src="assets/proj-prest-client-dark.svg" width="49%" alt="prest client"></picture></a>
+  <a href="https://github.com/pgEdge/terraform-provider-pgedge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proj-tf-pgedge-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/proj-tf-pgedge-light.svg"><img src="assets/proj-tf-pgedge-dark.svg" width="49%" alt="pgedge terraform"></picture></a>
 </p>
 
 <picture>
