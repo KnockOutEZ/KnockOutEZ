@@ -40,7 +40,7 @@ jobs:
           if git diff --quiet -- assets; then
             echo "no telemetry changes"
           else
-            git add assets/telemetry-*.svg assets/projects-*.svg
+            git add assets/telemetry-*.svg assets/projects-*.svg assets/proj-*.svg
             git commit -m "chore: refresh telemetry [skip ci]"
             git push
           fi
