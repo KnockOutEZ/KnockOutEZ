@@ -19,7 +19,7 @@
 <text x="205" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">65</text>
 <text x="205" y="152" font-size="10" fill="#8b949e" font-weight="400" text-anchor="start">public</text>
 <text x="350" y="92" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">followers</text>
-<text x="350" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">139</text>
+<text x="350" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">141</text>
 <text x="350" y="152" font-size="10" fill="#8b949e" font-weight="400" text-anchor="start">and counting</text>
 <text x="540" y="92" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">activity pulse</text>
 <polyline class="draw" points="540,135.7 565,135.1 589,136.2 614,141.5 638,105.3 663,139.3 688,146.2 712,146.3 737,135.5 762,116.8 786,117.9 811,98 835,118.9 860,150" fill="none" stroke="#e6edf3" stroke-width="1.5"/>
