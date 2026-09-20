@@ -22,7 +22,7 @@
 <text x="350" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">141</text>
 <text x="350" y="152" font-size="10" fill="#8b949e" font-weight="400" text-anchor="start">and counting</text>
 <text x="540" y="92" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">activity pulse</text>
-<polyline class="draw" points="540,135.7 565,135.1 589,136.2 614,141.5 638,105.3 663,139.3 688,146.2 712,146.3 737,135.5 762,116.8 786,117.9 811,98 835,118.9 860,150" fill="none" stroke="#e6edf3" stroke-width="1.5"/>
+<polyline class="draw" points="540,134.7 565,135.8 589,141.1 614,105.2 638,138.9 663,145.7 688,145.8 712,135.1 737,116.6 762,117.7 786,98 811,118.7 835,149.5 860,150" fill="none" stroke="#e6edf3" stroke-width="1.5"/>
 <circle class="ping" cx="860" cy="150" r="6" fill="none" stroke="#e6edf3" stroke-width="1"/>
 <circle cx="860" cy="150" r="2.5" fill="#e6edf3"/>
 <rect class="grow" x="540" y="178" width="263" height="10" fill="#e6edf3" opacity="1"/>
