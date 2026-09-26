@@ -13,7 +13,7 @@
 </style>
 <text x="10" y="26" font-size="12" fill="#8b949e" font-weight="600" text-anchor="start" letter-spacing="3" class="fade">04 — telemetry</text><line x1="150.8" y1="21" x2="870" y2="21" stroke="#30363d" stroke-width="1"/>
 <text x="30" y="92" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">contributions</text>
-<text x="30" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">10,896+</text>
+<text x="30" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">11,808+</text>
 <text x="30" y="152" font-size="10" fill="#8b949e" font-weight="400" text-anchor="start">since aug 2020</text>
 <text x="205" y="92" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">repositories</text>
 <text x="205" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">65</text>
@@ -22,9 +22,9 @@
 <text x="350" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">144</text>
 <text x="350" y="152" font-size="10" fill="#8b949e" font-weight="400" text-anchor="start">and counting</text>
 <text x="540" y="92" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">activity pulse</text>
-<polyline class="draw" points="540,135.1 565,136.2 589,141.5 614,105.3 638,139.3 663,146.2 688,146.3 712,135.5 737,116.8 762,117.9 786,98 811,118.9 835,150 860,149.6" fill="none" stroke="#e6edf3" stroke-width="1.5"/>
-<circle class="ping" cx="860" cy="149.6" r="6" fill="none" stroke="#e6edf3" stroke-width="1"/>
-<circle cx="860" cy="149.6" r="2.5" fill="#e6edf3"/>
+<polyline class="draw" points="540,137.9 565,139.1 589,144.9 614,105.8 638,142.5 663,149.9 688,150 712,138.4 737,118.3 762,119.4 786,98 811,119.6 835,137.4 860,117.5" fill="none" stroke="#e6edf3" stroke-width="1.5"/>
+<circle class="ping" cx="860" cy="117.5" r="6" fill="none" stroke="#e6edf3" stroke-width="1"/>
+<circle cx="860" cy="117.5" r="2.5" fill="#e6edf3"/>
 <rect class="grow" x="540" y="178" width="263" height="10" fill="#e6edf3" opacity="1"/>
 <rect class="grow" x="803" y="178" width="13" height="10" fill="#e6edf3" opacity="0.72"/>
 <rect class="grow" x="816" y="178" width="11" height="10" fill="#e6edf3" opacity="0.5"/>
