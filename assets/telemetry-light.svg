@@ -13,21 +13,21 @@
 </style>
 <text x="10" y="26" font-size="12" fill="#57606a" font-weight="600" text-anchor="start" letter-spacing="3" class="fade">04 — telemetry</text><line x1="150.8" y1="21" x2="870" y2="21" stroke="#d0d7de" stroke-width="1"/>
 <text x="30" y="92" font-size="11" fill="#57606a" font-weight="400" text-anchor="start" letter-spacing="2">contributions</text>
-<text x="30" y="128" font-size="30" fill="#0d1117" font-weight="700" text-anchor="start">11,808+</text>
+<text x="30" y="128" font-size="30" fill="#0d1117" font-weight="700" text-anchor="start">11,823+</text>
 <text x="30" y="152" font-size="10" fill="#57606a" font-weight="400" text-anchor="start">since aug 2020</text>
 <text x="205" y="92" font-size="11" fill="#57606a" font-weight="400" text-anchor="start" letter-spacing="2">repositories</text>
 <text x="205" y="128" font-size="30" fill="#0d1117" font-weight="700" text-anchor="start">65</text>
 <text x="205" y="152" font-size="10" fill="#57606a" font-weight="400" text-anchor="start">public</text>
 <text x="350" y="92" font-size="11" fill="#57606a" font-weight="400" text-anchor="start" letter-spacing="2">followers</text>
-<text x="350" y="128" font-size="30" fill="#0d1117" font-weight="700" text-anchor="start">144</text>
+<text x="350" y="128" font-size="30" fill="#0d1117" font-weight="700" text-anchor="start">143</text>
 <text x="350" y="152" font-size="10" fill="#57606a" font-weight="400" text-anchor="start">and counting</text>
 <text x="540" y="92" font-size="11" fill="#57606a" font-weight="400" text-anchor="start" letter-spacing="2">activity pulse</text>
-<polyline class="draw" points="540,137.9 565,139.1 589,144.9 614,105.8 638,142.5 663,149.9 688,150 712,138.4 737,118.3 762,119.4 786,98 811,119.6 835,137.4 860,117.5" fill="none" stroke="#0d1117" stroke-width="1.5"/>
-<circle class="ping" cx="860" cy="117.5" r="6" fill="none" stroke="#0d1117" stroke-width="1"/>
-<circle cx="860" cy="117.5" r="2.5" fill="#0d1117"/>
-<rect class="grow" x="540" y="178" width="263" height="10" fill="#0d1117" opacity="1"/>
-<rect class="grow" x="803" y="178" width="13" height="10" fill="#0d1117" opacity="0.72"/>
-<rect class="grow" x="816" y="178" width="11" height="10" fill="#0d1117" opacity="0.5"/>
+<polyline class="draw" points="540,136.1 565,141.4 589,105.2 614,139.2 638,146.1 663,146.1 688,135.4 712,116.8 737,117.8 762,98 786,118 811,134.4 835,115.6 860,150" fill="none" stroke="#0d1117" stroke-width="1.5"/>
+<circle class="ping" cx="860" cy="150" r="6" fill="none" stroke="#0d1117" stroke-width="1"/>
+<circle cx="860" cy="150" r="2.5" fill="#0d1117"/>
+<rect class="grow" x="540" y="178" width="261" height="10" fill="#0d1117" opacity="1"/>
+<rect class="grow" x="801" y="178" width="13" height="10" fill="#0d1117" opacity="0.72"/>
+<rect class="grow" x="814" y="178" width="13" height="10" fill="#0d1117" opacity="0.5"/>
 <rect class="grow" x="827" y="178" width="9" height="10" fill="#0d1117" opacity="0.34"/>
 <rect class="grow" x="836" y="178" width="24" height="10" fill="#0d1117" opacity="0.2"/>
 <text x="540" y="210" font-size="10" fill="#57606a" font-weight="400" text-anchor="start">typescript · css · javascript · vue · other</text>
