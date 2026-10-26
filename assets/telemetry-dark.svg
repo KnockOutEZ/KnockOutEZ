@@ -13,7 +13,7 @@
 </style>
 <text x="10" y="26" font-size="12" fill="#8b949e" font-weight="600" text-anchor="start" letter-spacing="3" class="fade">04 — telemetry</text><line x1="150.8" y1="21" x2="870" y2="21" stroke="#30363d" stroke-width="1"/>
 <text x="30" y="92" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">contributions</text>
-<text x="30" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">16,227+</text>
+<text x="30" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">16,229+</text>
 <text x="30" y="152" font-size="10" fill="#8b949e" font-weight="400" text-anchor="start">since aug 2020</text>
 <text x="205" y="92" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">repositories</text>
 <text x="205" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">65</text>
@@ -22,7 +22,7 @@
 <text x="350" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">146</text>
 <text x="350" y="152" font-size="10" fill="#8b949e" font-weight="400" text-anchor="start">and counting</text>
 <text x="540" y="92" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">activity pulse</text>
-<polyline class="draw" points="540,147.1 565,147.1 589,139.5 614,126.2 638,126.9 663,112.8 688,127 712,138.8 737,116.5 762,98 786,120 811,114.9 835,105.3 860,150" fill="none" stroke="#e6edf3" stroke-width="1.5"/>
+<polyline class="draw" points="540,147.2 565,147.2 589,139.5 614,126.2 638,127 663,112.8 688,127.1 712,138.8 737,116.6 762,98 786,120 811,114.9 835,105.3 860,150" fill="none" stroke="#e6edf3" stroke-width="1.5"/>
 <circle class="ping" cx="860" cy="150" r="6" fill="none" stroke="#e6edf3" stroke-width="1"/>
 <circle cx="860" cy="150" r="2.5" fill="#e6edf3"/>
 <rect class="grow" x="540" y="178" width="263" height="10" fill="#e6edf3" opacity="1"/>
