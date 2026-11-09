@@ -13,16 +13,16 @@
 </style>
 <text x="10" y="26" font-size="12" fill="#8b949e" font-weight="600" text-anchor="start" letter-spacing="3" class="fade">04 — telemetry</text><line x1="150.8" y1="21" x2="870" y2="21" stroke="#30363d" stroke-width="1"/>
 <text x="30" y="92" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">contributions</text>
-<text x="30" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">16,998+</text>
+<text x="30" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">17,007+</text>
 <text x="30" y="152" font-size="10" fill="#8b949e" font-weight="400" text-anchor="start">since aug 2020</text>
 <text x="205" y="92" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">repositories</text>
 <text x="205" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">65</text>
 <text x="205" y="152" font-size="10" fill="#8b949e" font-weight="400" text-anchor="start">public</text>
 <text x="350" y="92" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">followers</text>
-<text x="350" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">149</text>
+<text x="350" y="128" font-size="30" fill="#e6edf3" font-weight="700" text-anchor="start">148</text>
 <text x="350" y="152" font-size="10" fill="#8b949e" font-weight="400" text-anchor="start">and counting</text>
 <text x="540" y="92" font-size="11" fill="#8b949e" font-weight="400" text-anchor="start" letter-spacing="2">activity pulse</text>
-<polyline class="draw" points="540,139.3 565,126.1 589,126.8 614,112.7 638,126.9 663,138.6 688,116.5 712,98 737,119.9 762,114.9 786,102.1 811,124.1 835,149.1 860,150" fill="none" stroke="#e6edf3" stroke-width="1.5"/>
+<polyline class="draw" points="540,139.6 565,126.3 589,127 614,112.8 638,127.1 663,138.9 688,116.6 712,98 737,120 762,115 786,102.1 811,124.2 835,149.4 860,150" fill="none" stroke="#e6edf3" stroke-width="1.5"/>
 <circle class="ping" cx="860" cy="150" r="6" fill="none" stroke="#e6edf3" stroke-width="1"/>
 <circle cx="860" cy="150" r="2.5" fill="#e6edf3"/>
 <rect class="grow" x="540" y="178" width="264" height="10" fill="#e6edf3" opacity="1"/>
